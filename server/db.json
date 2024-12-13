@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "675",
+      "name": "tulsi",
+      "email": "h@gmail.com",
+      "phone": "1234567896",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8VucFVEZNp1JjtIJSettetNBe01-U2SWnRA&s",
+      "address": "surat, Gujarat."
+    },
+    {
+      "id": "308",
+      "name": "denisha",
+      "email": "denisha@gamil.com",
+      "phone": "4569871235",
+      "img": "https://images.unsplash.com/photo-1509803874385-db7c23652552?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2xvdWR8ZW58MHx8MHx8fDA%3D",
+      "address": "surat, Gujarat"
+    },
+    {
+      "id": "370",
+      "name": "bhumi",
+      "email": "bhumi@gmail.com",
+      "phone": "8238870530",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf5k-Ejb_4_z0-6pyxp5IWOh77mY-zvoaTuA&s",
+      "address": "surat, Gujarat\n"
+    }
+  ]
+}
